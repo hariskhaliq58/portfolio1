@@ -1,0 +1,23 @@
+header {
+    width: 375px;
+    height: 44px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.mylogo {
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    color: #6070FF;
+    padding-left: 20px;
+}
+
+.imagemenuicon {
+    width: 24px;
+    height: 24px;
+    padding-top: 10px;
+    padding-right: 20px;
+}
